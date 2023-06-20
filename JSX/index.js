@@ -14,11 +14,11 @@ function page1()
 {
     return (
         <nav>
-            <ul>
+            <ol>
                 <li>Home</li>
                 <li>About</li>
                 <li>Contact</li>
-            </ul>
+            </ol>
         </nav>
     )
 }
@@ -36,4 +36,5 @@ const page2 = (
 )
 
 // ReactDOM.render(page1(),document.getElementById("div1"));
+// ReactDOM.render(<page1 />,document.getElementById("div1"));
 ReactDOM.render(page2,document.getElementById("div1"));
