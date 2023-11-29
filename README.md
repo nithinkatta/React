@@ -6,6 +6,7 @@
   <li>Open Terminal</li>
   <li>run <b> npx create-react-app my-app </b> </li>
   <li>Change directory <b> cd my-app </b></li>
+  <li>run <b>npm install</b> only once in a new system
   <li>run <b>npm start </b> </li>
 </ul>
 <br>
