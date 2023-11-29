@@ -8,3 +8,11 @@
   <li>Change directory <b> cd my-app </b></li>
   <li>run <b>npm start </b> </li>
 </ul>
+<br>
+<h1> Error handling while pushing the repo into github</h1>
+<ul>
+  <li>Execute the command in terminal</li>
+  <li> <b>git pull --rebase origin main</b> </li>
+  <li> <b>git push origin main</b> </li>
+</ul>
+
