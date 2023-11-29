@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 // import ReactDOM from 'react-dom';
 import React from "react";
@@ -7,7 +7,7 @@ function Header(){
   return (
     <header>
       <nav >
-        <img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png' width={40} />
+        <img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png' width={40} alt='No image' />
       </nav>
       <ul>
         <li>Home</li>
