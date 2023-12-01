@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <NavBar/>
-      {/* <Hero/> */}
+      <Hero/>
       <Card/>
       <p>Page end</p>
     </div>
